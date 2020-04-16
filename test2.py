@@ -1,6 +1,3 @@
-character_name = "Julio"
-character_edge = 35
-print("There is a man named " + character_name + ", ")
-print("")
-print("")
-print("")
+n=1
+while n > 0:
+    print("mi nombre es Antonella" , end="")
